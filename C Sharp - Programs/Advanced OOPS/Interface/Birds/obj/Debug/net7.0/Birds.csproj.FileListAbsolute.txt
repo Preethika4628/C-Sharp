@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\bin\Debug\net7.0\Birds.exe
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\bin\Debug\net7.0\Birds.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\bin\Debug\net7.0\Birds.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\bin\Debug\net7.0\Birds.dll
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\bin\Debug\net7.0\Birds.pdb
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.dll
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\refint\Birds.dll
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.pdb
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\Birds.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Interface\Birds\obj\Debug\net7.0\ref\Birds.dll

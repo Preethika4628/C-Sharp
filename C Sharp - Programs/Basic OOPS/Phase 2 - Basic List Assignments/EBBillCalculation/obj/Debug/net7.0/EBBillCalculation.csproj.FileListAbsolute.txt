@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\bin\Debug\net7.0\EBBillCalculation.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\bin\Debug\net7.0\EBBillCalculation.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\bin\Debug\net7.0\EBBillCalculation.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\bin\Debug\net7.0\EBBillCalculation.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\bin\Debug\net7.0\EBBillCalculation.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\refint\EBBillCalculation.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\EBBillCalculation.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EBBillCalculation\obj\Debug\net7.0\ref\EBBillCalculation.dll

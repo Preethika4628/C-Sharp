@@ -1,0 +1,15 @@
+D:\ClassRoom Assignments\DoWhileArg\bin\Debug\net7.0\DoWhileArg.exe
+D:\ClassRoom Assignments\DoWhileArg\bin\Debug\net7.0\DoWhileArg.deps.json
+D:\ClassRoom Assignments\DoWhileArg\bin\Debug\net7.0\DoWhileArg.runtimeconfig.json
+D:\ClassRoom Assignments\DoWhileArg\bin\Debug\net7.0\DoWhileArg.dll
+D:\ClassRoom Assignments\DoWhileArg\bin\Debug\net7.0\DoWhileArg.pdb
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.csproj.AssemblyReference.cache
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.AssemblyInfoInputs.cache
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.AssemblyInfo.cs
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.csproj.CoreCompileInputs.cache
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.dll
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\refint\DoWhileArg.dll
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.pdb
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\DoWhileArg.genruntimeconfig.cache
+D:\ClassRoom Assignments\DoWhileArg\obj\Debug\net7.0\ref\DoWhileArg.dll

@@ -1,0 +1,15 @@
+D:\Programs\PractisePrograms\ForLoop\bin\Debug\net7.0\ForLoop.exe
+D:\Programs\PractisePrograms\ForLoop\bin\Debug\net7.0\ForLoop.deps.json
+D:\Programs\PractisePrograms\ForLoop\bin\Debug\net7.0\ForLoop.runtimeconfig.json
+D:\Programs\PractisePrograms\ForLoop\bin\Debug\net7.0\ForLoop.dll
+D:\Programs\PractisePrograms\ForLoop\bin\Debug\net7.0\ForLoop.pdb
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfo.cs
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.dll
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\refint\ForLoop.dll
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.pdb
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ForLoop.genruntimeconfig.cache
+D:\Programs\PractisePrograms\ForLoop\obj\Debug\net7.0\ref\ForLoop.dll

@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\bin\Debug\net7.0\SingleInheritance.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\bin\Debug\net7.0\SingleInheritance.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\bin\Debug\net7.0\SingleInheritance.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\bin\Debug\net7.0\SingleInheritance.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\bin\Debug\net7.0\SingleInheritance.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\refint\SingleInheritance.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\SingleInheritance.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\SingleInheritance\obj\Debug\net7.0\ref\SingleInheritance.dll

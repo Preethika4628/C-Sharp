@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\bin\Debug\net7.0\SyncfusionLibrary.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\bin\Debug\net7.0\SyncfusionLibrary.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\bin\Debug\net7.0\SyncfusionLibrary.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\bin\Debug\net7.0\SyncfusionLibrary.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\bin\Debug\net7.0\SyncfusionLibrary.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\refint\SyncfusionLibrary.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\SyncfusionLibrary.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncfusionLibrary\obj\Debug\net7.0\ref\SyncfusionLibrary.dll

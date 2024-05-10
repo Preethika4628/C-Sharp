@@ -1,0 +1,15 @@
+D:\Programs\softuni\Exe2.1\bin\Debug\net7.0\Exe2.1.exe
+D:\Programs\softuni\Exe2.1\bin\Debug\net7.0\Exe2.1.deps.json
+D:\Programs\softuni\Exe2.1\bin\Debug\net7.0\Exe2.1.runtimeconfig.json
+D:\Programs\softuni\Exe2.1\bin\Debug\net7.0\Exe2.1.dll
+D:\Programs\softuni\Exe2.1\bin\Debug\net7.0\Exe2.1.pdb
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.csproj.AssemblyReference.cache
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.AssemblyInfoInputs.cache
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.AssemblyInfo.cs
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.csproj.CoreCompileInputs.cache
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.dll
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\refint\Exe2.1.dll
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.pdb
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\Exe2.1.genruntimeconfig.cache
+D:\Programs\softuni\Exe2.1\obj\Debug\net7.0\ref\Exe2.1.dll

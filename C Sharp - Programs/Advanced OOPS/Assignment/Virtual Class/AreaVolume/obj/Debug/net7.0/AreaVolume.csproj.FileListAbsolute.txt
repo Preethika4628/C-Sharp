@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\bin\Debug\net7.0\AreaVolume.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\bin\Debug\net7.0\AreaVolume.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\bin\Debug\net7.0\AreaVolume.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\bin\Debug\net7.0\AreaVolume.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\bin\Debug\net7.0\AreaVolume.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\refint\AreaVolume.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\AreaVolume.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaVolume\obj\Debug\net7.0\ref\AreaVolume.dll

@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\refint\EmployeePayRoll.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Basic List Assignments\EmployeePayRoll\obj\Debug\net7.0\ref\EmployeePayRoll.dll

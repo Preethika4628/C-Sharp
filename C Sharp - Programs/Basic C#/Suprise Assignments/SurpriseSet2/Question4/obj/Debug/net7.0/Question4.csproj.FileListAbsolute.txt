@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\bin\Debug\net7.0\Question4.exe
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\bin\Debug\net7.0\Question4.deps.json
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\bin\Debug\net7.0\Question4.runtimeconfig.json
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\bin\Debug\net7.0\Question4.dll
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\bin\Debug\net7.0\Question4.pdb
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.dll
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\refint\Question4.dll
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.pdb
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\Question4.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic C#\Suprise Assignments\SurpriseSet2\Question4\obj\Debug\net7.0\ref\Question4.dll

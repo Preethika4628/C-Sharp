@@ -1,0 +1,15 @@
+D:\Programs\PractisePrograms\Medium\bin\Debug\net7.0\Medium.exe
+D:\Programs\PractisePrograms\Medium\bin\Debug\net7.0\Medium.deps.json
+D:\Programs\PractisePrograms\Medium\bin\Debug\net7.0\Medium.runtimeconfig.json
+D:\Programs\PractisePrograms\Medium\bin\Debug\net7.0\Medium.dll
+D:\Programs\PractisePrograms\Medium\bin\Debug\net7.0\Medium.pdb
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.AssemblyInfo.cs
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.dll
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\refint\Medium.dll
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.pdb
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\Medium.genruntimeconfig.cache
+D:\Programs\PractisePrograms\Medium\obj\Debug\net7.0\ref\Medium.dll

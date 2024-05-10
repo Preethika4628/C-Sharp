@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\bin\Debug\net7.0\OnlineMedicalStore.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\bin\Debug\net7.0\OnlineMedicalStore.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\bin\Debug\net7.0\OnlineMedicalStore.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\bin\Debug\net7.0\OnlineMedicalStore.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\bin\Debug\net7.0\OnlineMedicalStore.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\refint\OnlineMedicalStore.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\OnlineMedicalStore.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\OnlineMedicalStore\obj\Debug\net7.0\ref\OnlineMedicalStore.dll

@@ -1,0 +1,30 @@
+D:\Programs\Methods\bin\Debug\net7.0\Methods.exe
+D:\Programs\Methods\bin\Debug\net7.0\Methods.deps.json
+D:\Programs\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+D:\Programs\Methods\bin\Debug\net7.0\Methods.dll
+D:\Programs\Methods\bin\Debug\net7.0\Methods.pdb
+D:\Programs\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+D:\Programs\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+D:\Programs\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+D:\Programs\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Methods\obj\Debug\net7.0\Methods.dll
+D:\Programs\Methods\obj\Debug\net7.0\refint\Methods.dll
+D:\Programs\Methods\obj\Debug\net7.0\Methods.pdb
+D:\Programs\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+D:\Programs\Methods\obj\Debug\net7.0\ref\Methods.dll
+D:\C-Sharp\Basic C#\Methods\bin\Debug\net7.0\Methods.exe
+D:\C-Sharp\Basic C#\Methods\bin\Debug\net7.0\Methods.deps.json
+D:\C-Sharp\Basic C#\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+D:\C-Sharp\Basic C#\Methods\bin\Debug\net7.0\Methods.dll
+D:\C-Sharp\Basic C#\Methods\bin\Debug\net7.0\Methods.pdb
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.dll
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\refint\Methods.dll
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.pdb
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+D:\C-Sharp\Basic C#\Methods\obj\Debug\net7.0\ref\Methods.dll

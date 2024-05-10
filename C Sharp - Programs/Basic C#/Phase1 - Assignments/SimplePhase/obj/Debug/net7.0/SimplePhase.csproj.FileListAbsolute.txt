@@ -1,0 +1,15 @@
+D:\Programs\PractisePrograms\SimplePhase\bin\Debug\net7.0\SimplePhase.exe
+D:\Programs\PractisePrograms\SimplePhase\bin\Debug\net7.0\SimplePhase.deps.json
+D:\Programs\PractisePrograms\SimplePhase\bin\Debug\net7.0\SimplePhase.runtimeconfig.json
+D:\Programs\PractisePrograms\SimplePhase\bin\Debug\net7.0\SimplePhase.dll
+D:\Programs\PractisePrograms\SimplePhase\bin\Debug\net7.0\SimplePhase.pdb
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.AssemblyInfo.cs
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.dll
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\refint\SimplePhase.dll
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.pdb
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\SimplePhase.genruntimeconfig.cache
+D:\Programs\PractisePrograms\SimplePhase\obj\Debug\net7.0\ref\SimplePhase.dll

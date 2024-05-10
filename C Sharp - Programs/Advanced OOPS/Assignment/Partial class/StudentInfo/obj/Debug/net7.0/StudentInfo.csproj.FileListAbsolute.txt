@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\bin\Debug\net7.0\StudentInfo.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\bin\Debug\net7.0\StudentInfo.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\bin\Debug\net7.0\StudentInfo.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\bin\Debug\net7.0\StudentInfo.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\bin\Debug\net7.0\StudentInfo.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\refint\StudentInfo.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\StudentInfo.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Partial class\StudentInfo\obj\Debug\net7.0\ref\StudentInfo.dll

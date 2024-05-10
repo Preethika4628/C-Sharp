@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\bin\Debug\net7.0\Hospital.exe
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\bin\Debug\net7.0\Hospital.deps.json
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\bin\Debug\net7.0\Hospital.runtimeconfig.json
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\bin\Debug\net7.0\Hospital.dll
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\bin\Debug\net7.0\Hospital.pdb
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.AssemblyInfo.cs
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.dll
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\refint\Hospital.dll
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.pdb
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\Hospital.genruntimeconfig.cache
+D:\C Sharp - Programs\LeraningPortal - SyncFusion\Hospital\obj\Debug\net7.0\ref\Hospital.dll

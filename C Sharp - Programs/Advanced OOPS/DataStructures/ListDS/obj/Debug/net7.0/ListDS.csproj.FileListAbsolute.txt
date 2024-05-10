@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\bin\Debug\net7.0\ListDS.exe
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\bin\Debug\net7.0\ListDS.deps.json
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\bin\Debug\net7.0\ListDS.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\bin\Debug\net7.0\ListDS.dll
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\bin\Debug\net7.0\ListDS.pdb
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.dll
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\refint\ListDS.dll
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.pdb
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ListDS.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\DataStructures\ListDS\obj\Debug\net7.0\ref\ListDS.dll

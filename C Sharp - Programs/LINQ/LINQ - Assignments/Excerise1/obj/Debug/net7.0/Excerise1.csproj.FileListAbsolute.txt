@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\bin\Debug\net7.0\Excerise1.exe
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\bin\Debug\net7.0\Excerise1.deps.json
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\bin\Debug\net7.0\Excerise1.runtimeconfig.json
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\bin\Debug\net7.0\Excerise1.dll
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\bin\Debug\net7.0\Excerise1.pdb
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.AssemblyInfo.cs
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.dll
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\refint\Excerise1.dll
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.pdb
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\Excerise1.genruntimeconfig.cache
+D:\C Sharp - Programs\LINQ\Learning Portal - Assignments\Excerise1\obj\Debug\net7.0\ref\Excerise1.dll

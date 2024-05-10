@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\bin\Debug\net7.0\FileFolder.exe
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\bin\Debug\net7.0\FileFolder.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\bin\Debug\net7.0\FileFolder.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\bin\Debug\net7.0\FileFolder.dll
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\bin\Debug\net7.0\FileFolder.pdb
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.dll
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\refint\FileFolder.dll
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.pdb
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\FileFolder.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Files and Folders\FileFolder\obj\Debug\net7.0\ref\FileFolder.dll

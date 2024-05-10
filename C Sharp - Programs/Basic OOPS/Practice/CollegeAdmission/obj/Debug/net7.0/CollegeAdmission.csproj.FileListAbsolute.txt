@@ -1,0 +1,30 @@
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.exe
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.deps.json
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.runtimeconfig.json
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.dll
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.pdb
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.AssemblyReference.cache
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfoInputs.cache
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfo.cs
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.dll
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\refint\CollegeAdmission.dll
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.pdb
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.genruntimeconfig.cache
+D:\C-Sharp\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\ref\CollegeAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.exe
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.deps.json
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.pdb
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\refint\CollegeAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.pdb
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Practice\CollegeAdmission\obj\Debug\net7.0\ref\CollegeAdmission.dll

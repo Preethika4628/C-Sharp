@@ -1,0 +1,30 @@
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\bin\Debug\net7.0\BloodBank.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\bin\Debug\net7.0\BloodBank.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\bin\Debug\net7.0\BloodBank.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\bin\Debug\net7.0\BloodBank.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\bin\Debug\net7.0\BloodBank.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\refint\BloodBank.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\BloodBank.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\BloodBank\obj\Debug\net7.0\ref\BloodBank.dll
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\bin\Debug\net7.0\BloodBank.exe
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\bin\Debug\net7.0\BloodBank.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\bin\Debug\net7.0\BloodBank.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\bin\Debug\net7.0\BloodBank.dll
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\bin\Debug\net7.0\BloodBank.pdb
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.dll
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\refint\BloodBank.dll
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.pdb
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\BloodBank.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Application with File Handling and CutomList\BloodBank\obj\Debug\net7.0\ref\BloodBank.dll

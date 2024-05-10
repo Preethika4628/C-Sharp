@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\bin\Debug\net7.0\AreaDiffShapes.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\bin\Debug\net7.0\AreaDiffShapes.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\bin\Debug\net7.0\AreaDiffShapes.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\bin\Debug\net7.0\AreaDiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\bin\Debug\net7.0\AreaDiffShapes.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\refint\AreaDiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\AreaDiffShapes.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Virtual Class\AreaDiffShapes\obj\Debug\net7.0\ref\AreaDiffShapes.dll

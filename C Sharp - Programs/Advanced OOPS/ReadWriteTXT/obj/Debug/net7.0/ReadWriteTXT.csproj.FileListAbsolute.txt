@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.exe
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.deps.json
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.dll
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.pdb
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.dll
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\refint\ReadWriteTXT.dll
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.pdb
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\ReadWriteTXT\obj\Debug\net7.0\ref\ReadWriteTXT.dll

@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\bin\Debug\net7.0\DiffShapes.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\bin\Debug\net7.0\DiffShapes.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\bin\Debug\net7.0\DiffShapes.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\bin\Debug\net7.0\DiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\bin\Debug\net7.0\DiffShapes.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\refint\DiffShapes.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\DiffShapes.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Abstract Class\DiffShapes\obj\Debug\net7.0\ref\DiffShapes.dll

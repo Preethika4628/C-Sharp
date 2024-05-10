@@ -1,0 +1,15 @@
+D:\Programs\PractisePrograms\Switch\bin\Debug\net7.0\Switch.exe
+D:\Programs\PractisePrograms\Switch\bin\Debug\net7.0\Switch.deps.json
+D:\Programs\PractisePrograms\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+D:\Programs\PractisePrograms\Switch\bin\Debug\net7.0\Switch.dll
+D:\Programs\PractisePrograms\Switch\bin\Debug\net7.0\Switch.pdb
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.dll
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\refint\Switch.dll
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.pdb
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+D:\Programs\PractisePrograms\Switch\obj\Debug\net7.0\ref\Switch.dll

@@ -1,0 +1,15 @@
+D:\Programs\SupriseSet5\Question2\bin\Debug\net7.0\Question2.exe
+D:\Programs\SupriseSet5\Question2\bin\Debug\net7.0\Question2.deps.json
+D:\Programs\SupriseSet5\Question2\bin\Debug\net7.0\Question2.runtimeconfig.json
+D:\Programs\SupriseSet5\Question2\bin\Debug\net7.0\Question2.dll
+D:\Programs\SupriseSet5\Question2\bin\Debug\net7.0\Question2.pdb
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.csproj.AssemblyReference.cache
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.AssemblyInfoInputs.cache
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.AssemblyInfo.cs
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.csproj.CoreCompileInputs.cache
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.dll
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\refint\Question2.dll
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.pdb
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\Question2.genruntimeconfig.cache
+D:\Programs\SupriseSet5\Question2\obj\Debug\net7.0\ref\Question2.dll

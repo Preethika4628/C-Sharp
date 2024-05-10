@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\bin\Debug\net7.0\CollegeAdminstration.exe
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\bin\Debug\net7.0\CollegeAdminstration.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\bin\Debug\net7.0\CollegeAdminstration.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\bin\Debug\net7.0\CollegeAdminstration.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\bin\Debug\net7.0\CollegeAdminstration.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\refint\CollegeAdminstration.dll
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.pdb
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\CollegeAdminstration.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Assignment\Inheritance\Hierarchical Inheritance\CollegeAdminstration\obj\Debug\net7.0\ref\CollegeAdminstration.dll

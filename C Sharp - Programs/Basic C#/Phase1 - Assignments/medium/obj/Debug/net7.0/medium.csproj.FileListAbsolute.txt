@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\bin\Debug\net7.0\medium.exe
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\bin\Debug\net7.0\medium.deps.json
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\bin\Debug\net7.0\medium.runtimeconfig.json
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\bin\Debug\net7.0\medium.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\bin\Debug\net7.0\medium.pdb
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\refint\medium.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.pdb
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\medium.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\medium\obj\Debug\net7.0\ref\medium.dll

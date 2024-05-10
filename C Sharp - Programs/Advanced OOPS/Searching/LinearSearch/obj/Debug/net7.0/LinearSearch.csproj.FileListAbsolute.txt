@@ -1,0 +1,15 @@
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\bin\Debug\net7.0\LinearSearch.exe
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\bin\Debug\net7.0\LinearSearch.deps.json
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\bin\Debug\net7.0\LinearSearch.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\bin\Debug\net7.0\LinearSearch.dll
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\bin\Debug\net7.0\LinearSearch.pdb
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.dll
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\refint\LinearSearch.dll
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.pdb
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\LinearSearch.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\Searching\LinearSearch\obj\Debug\net7.0\ref\LinearSearch.dll

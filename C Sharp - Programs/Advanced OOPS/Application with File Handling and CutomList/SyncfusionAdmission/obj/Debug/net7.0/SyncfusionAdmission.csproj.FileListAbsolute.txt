@@ -1,0 +1,30 @@
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.exe
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.deps.json
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.pdb
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\refint\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.pdb
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncfusionAdmission\obj\Debug\net7.0\ref\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.exe
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.deps.json
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.runtimeconfig.json
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\bin\Debug\net7.0\SyncfusionAdmission.pdb
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.AssemblyInfo.cs
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\refint\SyncfusionAdmission.dll
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.pdb
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\SyncfusionAdmission.genruntimeconfig.cache
+D:\C Sharp - Programs\Advanced OOPS\SyncfusionAdmission\obj\Debug\net7.0\ref\SyncfusionAdmission.dll

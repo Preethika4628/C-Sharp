@@ -1,0 +1,30 @@
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\bin\Debug\net7.0\TypeConversions.exe
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\bin\Debug\net7.0\TypeConversions.deps.json
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\bin\Debug\net7.0\TypeConversions.runtimeconfig.json
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\bin\Debug\net7.0\TypeConversions.dll
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\bin\Debug\net7.0\TypeConversions.pdb
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.AssemblyReference.cache
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfo.cs
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.dll
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\refint\TypeConversions.dll
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.pdb
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\TypeConversions.genruntimeconfig.cache
+C:\Users\PreethikaSathish\OneDrive - Syncfusion\Desktop\Assignmnets\TypeConversions\obj\Debug\net7.0\ref\TypeConversions.dll
+D:\Assignments\TypeConversions\bin\Debug\net7.0\TypeConversions.exe
+D:\Assignments\TypeConversions\bin\Debug\net7.0\TypeConversions.deps.json
+D:\Assignments\TypeConversions\bin\Debug\net7.0\TypeConversions.runtimeconfig.json
+D:\Assignments\TypeConversions\bin\Debug\net7.0\TypeConversions.dll
+D:\Assignments\TypeConversions\bin\Debug\net7.0\TypeConversions.pdb
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.AssemblyReference.cache
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfoInputs.cache
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfo.cs
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.CoreCompileInputs.cache
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.dll
+D:\Assignments\TypeConversions\obj\Debug\net7.0\refint\TypeConversions.dll
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.pdb
+D:\Assignments\TypeConversions\obj\Debug\net7.0\TypeConversions.genruntimeconfig.cache
+D:\Assignments\TypeConversions\obj\Debug\net7.0\ref\TypeConversions.dll

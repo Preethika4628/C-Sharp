@@ -1,0 +1,30 @@
+D:\Programs\PractisePrograms\Array\bin\Debug\net7.0\Array.exe
+D:\Programs\PractisePrograms\Array\bin\Debug\net7.0\Array.deps.json
+D:\Programs\PractisePrograms\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\Programs\PractisePrograms\Array\bin\Debug\net7.0\Array.dll
+D:\Programs\PractisePrograms\Array\bin\Debug\net7.0\Array.pdb
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.dll
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\refint\Array.dll
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.pdb
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\Programs\PractisePrograms\Array\obj\Debug\net7.0\ref\Array.dll
+D:\C-Sharp\Basic C#\PractisePrograms\Array\bin\Debug\net7.0\Array.exe
+D:\C-Sharp\Basic C#\PractisePrograms\Array\bin\Debug\net7.0\Array.deps.json
+D:\C-Sharp\Basic C#\PractisePrograms\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\C-Sharp\Basic C#\PractisePrograms\Array\bin\Debug\net7.0\Array.dll
+D:\C-Sharp\Basic C#\PractisePrograms\Array\bin\Debug\net7.0\Array.pdb
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.dll
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\refint\Array.dll
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.pdb
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\C-Sharp\Basic C#\PractisePrograms\Array\obj\Debug\net7.0\ref\Array.dll

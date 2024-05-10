@@ -1,0 +1,30 @@
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\bin\Debug\net7.0\SyncCart.exe
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\bin\Debug\net7.0\SyncCart.deps.json
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\bin\Debug\net7.0\SyncCart.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\bin\Debug\net7.0\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\bin\Debug\net7.0\SyncCart.pdb
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\refint\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.pdb
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\SyncCart.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\List Assignments\SyncCart\obj\Debug\net7.0\ref\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\bin\Debug\net7.0\SyncCart.exe
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\bin\Debug\net7.0\SyncCart.deps.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\bin\Debug\net7.0\SyncCart.runtimeconfig.json
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\bin\Debug\net7.0\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\bin\Debug\net7.0\SyncCart.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\refint\SyncCart.dll
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.pdb
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\SyncCart.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic OOPS\Phase 2 - Assignments\SyncCart\obj\Debug\net7.0\ref\SyncCart.dll

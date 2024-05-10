@@ -1,0 +1,45 @@
+D:\Programs\PractisePrograms\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.exe
+D:\Programs\PractisePrograms\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.deps.json
+D:\Programs\PractisePrograms\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.runtimeconfig.json
+D:\Programs\PractisePrograms\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.dll
+D:\Programs\PractisePrograms\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.pdb
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfo.cs
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.dll
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\refint\Phase1 - assignment.dll
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.pdb
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.genruntimeconfig.cache
+D:\Programs\PractisePrograms\Phase1 - assignment\obj\Debug\net7.0\ref\Phase1 - assignment.dll
+D:\Programs\Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.exe
+D:\Programs\Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.deps.json
+D:\Programs\Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.runtimeconfig.json
+D:\Programs\Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.dll
+D:\Programs\Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.pdb
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.AssemblyReference.cache
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfoInputs.cache
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfo.cs
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.CoreCompileInputs.cache
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.dll
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\refint\Phase1 - assignment.dll
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.pdb
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.genruntimeconfig.cache
+D:\Programs\Assignments\Phase1 - assignment\obj\Debug\net7.0\ref\Phase1 - assignment.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.exe
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.deps.json
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.runtimeconfig.json
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\bin\Debug\net7.0\Phase1 - assignment.pdb
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.AssemblyReference.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfoInputs.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.AssemblyInfo.cs
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.csproj.CoreCompileInputs.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\refint\Phase1 - assignment.dll
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.pdb
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\Phase1 - assignment.genruntimeconfig.cache
+D:\C Sharp - Programs\Basic C#\Phase1 - Assignments\Phase1 - assignment\obj\Debug\net7.0\ref\Phase1 - assignment.dll

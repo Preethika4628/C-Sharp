@@ -1,0 +1,15 @@
+D:\Programs\PractisePrograms\whileLoop\bin\Debug\net7.0\whileLoop.exe
+D:\Programs\PractisePrograms\whileLoop\bin\Debug\net7.0\whileLoop.deps.json
+D:\Programs\PractisePrograms\whileLoop\bin\Debug\net7.0\whileLoop.runtimeconfig.json
+D:\Programs\PractisePrograms\whileLoop\bin\Debug\net7.0\whileLoop.dll
+D:\Programs\PractisePrograms\whileLoop\bin\Debug\net7.0\whileLoop.pdb
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.AssemblyInfo.cs
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.dll
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\refint\whileLoop.dll
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.pdb
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\whileLoop.genruntimeconfig.cache
+D:\Programs\PractisePrograms\whileLoop\obj\Debug\net7.0\ref\whileLoop.dll

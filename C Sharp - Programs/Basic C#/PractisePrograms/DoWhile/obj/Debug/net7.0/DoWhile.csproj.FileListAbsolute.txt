@@ -1,0 +1,45 @@
+D:\Programs\VideoSource\DoWhile\bin\Debug\net7.0\DoWhile.exe
+D:\Programs\VideoSource\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+D:\Programs\VideoSource\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+D:\Programs\VideoSource\DoWhile\bin\Debug\net7.0\DoWhile.dll
+D:\Programs\VideoSource\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.dll
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+D:\Programs\VideoSource\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll
+D:\Programs\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.exe
+D:\Programs\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+D:\Programs\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+D:\Programs\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.dll
+D:\Programs\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.dll
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+D:\Programs\PractisePrograms\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.exe
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.dll
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.dll
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+D:\C-Sharp\Basic C#\PractisePrograms\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll
